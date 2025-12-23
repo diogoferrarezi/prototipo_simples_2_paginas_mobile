@@ -10,8 +10,11 @@ Incluir elementos de visualização, como List View ou Grid View, dentro do seu 
 Criar um protótipo navegável no Figma, permitindo que outras pessoas interajam com o design de forma dinâmica e fluída.
 
 Minha criação: DF decor - Loja de móveis e decoração futurista
+
 Protótipo Mobile
+
 Layout de interface Grid View
+
 Ferramenta: Figma
 
 Resumo do funcionamento do App:
