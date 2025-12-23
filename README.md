@@ -21,6 +21,11 @@ Resumo do funcionamento do App:
 Criei duas páginas de um aplicativo mobile de uma loja que vende móveis, decoração e demais itens para casa contemporâneo e futurista.
 Ao navegar na primeira página, conhecerá os produtos e as facilidades de interagir com app ao clicar abaixo na barra de navegação no círculo com três riscos na horizontal estará sendo direcionado para o menu na segunda página onde todas as informações relacionado a sua conta que já está cadastrada na loja nesse exemplo, pedidos de compra e outras informações serão encontrada nesse menu. Ao clicar novamente na barra de navegação no círculo com o ícone de uma casa, estará retornando para a página principal da loja.
 
-Segue abaixo o Link do Projeto no Figma.
+Segue abaixo o Link do Protótipo no Figma.
 
 https://www.figma.com/proto/ZmEXG532bFOMrFYgIq0hX7/DF-decor?node-id=1-2&t=1KVLhDwHWjI7NYba-1
+
+Segue abaixo o Link da construção do projeto.
+
+https://www.figma.com/design/ZmEXG532bFOMrFYgIq0hX7/DF-decor?node-id=1-2&m=dev&t=1KVLhDwHWjI7NYba-1
+
